@@ -93,7 +93,7 @@ pip install keras-segmentation
 or 
 
 ```shell
-pip install git+https://github.com/divamgupta/image-segmentation-keras
+pip install git+https://github.com/Julia2505/image-segmentation-keras
 ```
 
 ### or
